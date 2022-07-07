@@ -1,0 +1,18 @@
+﻿@model List<Room>
+
+@foreach(Room r in Model)
+{
+	<div>============</div>
+    <h4>Room number: @r.Number</h4>
+    @if (@r.Occupied)
+    {
+        // occupied
+        <div>Occupied: @r.Occupants </div>
+    }
+    else
+    {
+        // unoccupied
+        <div>Capacity: @r.Capacity UNOCCUPIED </div>
+    }
+
+}

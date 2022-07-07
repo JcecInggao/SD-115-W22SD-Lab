@@ -1,0 +1,16 @@
+﻿@model List<Room>
+<h1>Rooms Remaining: </h1>
+
+@if (true)
+{
+    <h2 style="color:red;">@ViewBag.Message</h2>
+}
+
+@foreach(Room r in Model)
+{
+	<div>============</div>
+    <h4>Room number: @r.Number</h4>
+    <div>Capacity: @r.Capacity </div>
+    <div>Occupants: @r.Occupants </div>
+    <div>Occupied: @r.Occupied </div>
+}

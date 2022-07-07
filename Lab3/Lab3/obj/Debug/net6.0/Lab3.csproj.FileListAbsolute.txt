@@ -1,0 +1,8 @@
+C:\Users\hogma\source\repos\SD-115-W22D\Labs\SD-115-W22SD-Lab\Lab3\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+C:\Users\hogma\source\repos\SD-115-W22D\Labs\SD-115-W22SD-Lab\Lab3\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hogma\source\repos\SD-115-W22D\Labs\SD-115-W22SD-Lab\Lab3\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\hogma\source\repos\SD-115-W22D\Labs\SD-115-W22SD-Lab\Lab3\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+C:\Users\hogma\source\repos\SD-115-W22D\Labs\SD-115-W22SD-Lab\Lab3\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\hogma\source\repos\SD-115-W22D\Labs\SD-115-W22SD-Lab\Lab3\Lab3\obj\Debug\net6.0\Lab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hogma\source\repos\SD-115-W22D\Labs\SD-115-W22SD-Lab\Lab3\Lab3\obj\Debug\net6.0\Lab3.RazorAssemblyInfo.cache
+C:\Users\hogma\source\repos\SD-115-W22D\Labs\SD-115-W22SD-Lab\Lab3\Lab3\obj\Debug\net6.0\Lab3.RazorAssemblyInfo.cs

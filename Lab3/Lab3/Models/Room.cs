@@ -10,6 +10,7 @@ namespace HotelReview
     {
         public string Number { get; set; }
         public int Capacity { get; set; }
+        public int Occupants { get; set; }
         public bool Occupied { get; set; }
         public List<Reservation> Reservations { get; set; }
 
